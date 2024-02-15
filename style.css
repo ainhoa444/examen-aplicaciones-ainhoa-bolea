@@ -1,0 +1,77 @@
+.blue{
+    color: blue;
+    background-color: lightpink;
+}
+a:hover{
+    background-color: yellow;
+    color: black;
+}
+.edicion{
+    color: blue;
+}
+
+.div1{
+    border: 1px;
+    background-color: lightsalmon;
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+}
+.nominats{
+    color: red;
+}
+
+.div2{
+    border: 1px;
+    background-color: lightseagreen;
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+ 
+}
+.contacte{
+    color: blue;
+}
+.div3{
+    border: 1px;
+    background-color: lightsalmon;
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+}
+.nombre{
+    color: blue;
+    background-color: yellow;
+}
+
+.div4{
+    color: blue;
+    background-color: lightsalmon;
+    display: inline-block;
+    width: 800px;
+    height: 200px;
+}
+.pelicula{
+    color: blue;
+}
+
+.div5{
+    color: yellow;
+    background-color: lightgreen;
+    display: inline-block;
+    width: 800px;
+    height: 200px;
+    font-variant-numeric: ordinal ;
+}
+
+
+
+.nomgoya{
+    display: inline;
+}
+.emailgoya{
+    display: inline;
+}
+.cognomgoya{
+    display: inline;
+}
